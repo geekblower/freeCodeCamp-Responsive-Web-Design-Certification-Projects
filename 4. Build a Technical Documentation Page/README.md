@@ -1,4 +1,4 @@
 ## 4. Build a Technical Documentation Page
-###### Website link (Live Preview) https://geekblower.github.io/
+###### Website link (Live Preview) https://codepen.io/geekblower01/pen/ExXEmmK
 
-![doce]()
+![doce](https://codepen.io/geekblower01/pen/ExXEmmK/image/large.png)
